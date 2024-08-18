@@ -1,4 +1,4 @@
-(https://i.ibb.co/vz350Td/Linkedin-banner.png)
+https://i.ibb.co/vz350Td/Linkedin-banner.png
 Hi , I am Al-amin Hossain.
 Frontend Web developer.
 
