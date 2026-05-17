@@ -1,5 +1,5 @@
 
-![ Frontend Web developer.](https://i.ibb.co/vz350Td/Linkedin-banner.png)
+![ Frontend Web developer.](https://i.ibb.co.com/qLFZBRq0/Chat-GPT-Image-May-17-2026-04-22-24-PM.png)
   Hi , I am Al-amin Hossain.
  Frontend Web developer.
  I have been working in web development for 2 year. I have gained skills in various aspects and areas .such as: HTML , CSS, tailwind CSS, Java script ,React ,Express , Node.js ,MongoDB . Currently on my way to getting my certification in my internship with Creative it institute.
